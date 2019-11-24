@@ -1,4 +1,3 @@
-# OM2M-LAB
 #LAB1
 #1 guess number
 ![](https://i.imgur.com/f3nutpd.png)
@@ -33,3 +32,9 @@ get server location 取得server的位置資訊
 map server location 將座標顯示在google map
 ![](https://i.imgur.com/EKM9x1u.png)
 沒有實際的server 所以顯示(0,0)
+
+node red
+![](https://i.imgur.com/SzW8QB9.png)
+監控/locate 取得手機位置資訊並回傳
+
+監控/locate/groupid 取得server資訊並回傳
